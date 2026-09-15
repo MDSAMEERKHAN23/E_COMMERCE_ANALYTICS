@@ -41,4 +41,4 @@ The dashboard helps identify top-performing products, high-sales cities and stat
 
 This project strengthened my practical skills in Power BI, Power Query, DAX, data modeling, KPI creation, and interactive business dashboard development, with a focus on turning raw e-commerce data into actionable business insights.
 
-CREENSHOT OF PROJRCT:
+CREENSHOT OF PROJECT:https://github.com/MDSAMEERKHAN23/E_COMMERECE_ANALYTICS/blob/main/Screenshot%202026-08-09%20155117.png
