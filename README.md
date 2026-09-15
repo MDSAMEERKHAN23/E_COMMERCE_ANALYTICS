@@ -1,4 +1,4 @@
-# E_COMMERECE_ANALYTICS
+# E_COMMERCE_ANALYTICS
 🛒 E-Commerce Sales Dashboard | Power BI
 
 An interactive E-Commerce Sales Dashboard developed using Microsoft Power BI to analyze sales, profit, transactions, product performance, customer purchasing patterns, and geographical sales distribution.
